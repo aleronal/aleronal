@@ -1,5 +1,5 @@
 #  🏂 About Me:
-I'm a Full-Stack developer who likes to work with JavaScript/Vue.js (React,.js, Vanilla) PHP/Laravel, Python among others.
+I'm a Full-Stack developer who likes to work with PHP/Laravel,Python, JavaScript/Vue.js (React.js, Vanilla) among others.
 
 
 ## 🌐 Socials:
