@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  🏂 About Me:
 I'm a Full-Stack developer who likes to work with JavaScript/Vue.js (React,.js, Vanilla) PHP/Laravel, Python among others.
 
 
